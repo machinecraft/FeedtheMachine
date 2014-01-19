@@ -129,7 +129,7 @@ block {
     B:"Keep hunger on death"=true
     B:"Keep levels on death"=true
     B:"Modifiers increase Mining Level"=true
-    B:"Remove Vanilla Tool Recipes"=false
+    B:"Remove Vanilla Tool Recipes"=true
     B:"Spawn beginner book"=true
 }
 
